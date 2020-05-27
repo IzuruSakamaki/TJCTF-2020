@@ -1,4 +1,3 @@
-# TJCTF-2020
 # Dokumentasi TJCTF 2020 - Team: Ya! haroo (OTW Gan!)
 [![test code style](https://img.shields.io/badge/Author-Izuru-a6e3e9)](https://github.com/IzuruSakamaki)
 [![test code style](https://img.shields.io/badge/Name-Mohammad%20Ifaizul%20Hasan-00adb5)](https://github.com/IzuruSakamaki)
