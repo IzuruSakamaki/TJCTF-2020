@@ -8,4 +8,4 @@ tjctf{QUICKSONIC}
 ## Solution
 ![](img.jpg)
 
-Gambar tersebut dapat diperoleh dengan melihat spectogram audio dengan bantukan `audacity`. Kemudian tinggal melakukan penerjemahan dengan font `wingdings`.
+Gambar tersebut dapat diperoleh dengan melihat `spectogram` audio nya dengan bantuan aplikasi `audacity`. Kemudian tinggal melakukan penerjemahan dengan font `wingdings`.
