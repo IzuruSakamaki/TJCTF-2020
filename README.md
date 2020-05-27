@@ -36,7 +36,8 @@
     - [5.3. Ling Ling](./Ling-Ling/README.md)
 
 ## Score Progression
+<p align="center">
 ![Score Progression](points.png)
-
+</p>
 ## Ranking
 ![Ranking](ranking.png)
