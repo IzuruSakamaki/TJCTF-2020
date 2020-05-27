@@ -11,6 +11,6 @@ tjctf{w3iGht_l055_i5_d1ff1CuLt}
 ## Solution
 ![](img.png)
 
-Gambar diatas merupakan tampilan dari file yang telah diunduh dari lampiran soal ketika di `decompile` menggunakan aplikasi `ghidra`. Setelah memahami aturan pengurangan setiap kegiatan, maka kita akan mendapatkan hasil akhir yang diinginkan yaitu 180lbs. Saya sendiri menggunakan step `2``3``3``3``3``3``3` untuk menyelesaikannya.
+Gambar diatas merupakan tampilan dari file yang telah diunduh dari lampiran soal ketika di `decompile` menggunakan aplikasi `ghidra`. Setelah memahami aturan pengurangan setiap kegiatan, maka kita akan mendapatkan hasil akhir yang diinginkan yaitu 180lbs. Saya sendiri menggunakan step `2` `3` `3` `3` `3` `3` `3` untuk menyelesaikannya.
 
 ![](img2.png)
