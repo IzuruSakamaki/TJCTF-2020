@@ -11,5 +11,4 @@ tjctf{ch0p1n_fl4gs}
 Setelah mengunduh gambar, dapat dilihat gambar tersebut adalah meme dengan not balok Chopins Third Ballade. Dari soal dapat diketahui yang dicari adalah pembuat dari meme tersebut. Untuk mendapatkan data tersebut dapat menggunakan `exiftool` dan grep pada `terminal`. 
 ```
 $ exiftool [imagename].png | grep Artist
-``` 
-Setelah itu akan muncul langsung Artist/pembuat dari meme tersebut.
+```
