@@ -4,9 +4,7 @@
 [![test code style](https://img.shields.io/badge/NRP-05311840000029-393e46)](https://github.com/IzuruSakamaki)
 [![test code style](https://img.shields.io/badge/Lecturers-Mr.%20Ridho%20Rahman%20Hariadi,%20S.Kom.,%20M.Sc.-222831)](https://id.linkedin.com/in/ridho-rahman-hariadi-bb1402109)
 
-<br>
-
-# Problem List
+## Problem List
 - I. Miscellaneous
     - [1.1. Zipped Up](./Zipped-Up/README.md)
     - [1.2. arabfunny](./arabfunny/README.md)
@@ -37,5 +35,8 @@
     - [5.2. Hexillology](./Hexillology/README.md)
     - [5.3. Ling Ling](./Ling-Ling/README.md)
 
-# Score Progression
-![Score Progression](./img/scoreProgression.jpg)
+## Score Progression
+![Score Progression](points.png)
+
+## Ranking
+![Ranking](rank.png)
