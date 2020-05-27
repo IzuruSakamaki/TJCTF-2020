@@ -39,4 +39,4 @@
 ![Score Progression](points.png)
 
 ## Ranking
-![Ranking](rank.png)
+![Ranking](ranking.png)
