@@ -1,6 +1,6 @@
-# arabfunny - 10 points
+# arabfunny - 40 points
 ## Description
-So many sounds...
+So many [sounds](https://static.tjctf.org/449acd6124ee789182ced8c03a0a50664bdbe2bd22669455fceeca8acec9b718_arabfunny.mp3)...
 ## Flag
 ```
 tjctf{bruh_camel_240p}
@@ -11,6 +11,7 @@ tjctf{bruh_camel_240p}
 Bukalah audio file menggunakan audacity. Temukan kode berupa suara nomor telepon. Ambil bagian itu.
 
 ![](cutone.png)
+
 ![](cuttwo.png)
 
 Disini saya membuat dua file `.wav` yang berisi suara nomor telepon tersebut karena tidak jarang suaranya berbeda frekuensi. Tidak percaya? mari kita buktikan menggunakan tool [Detect DTMF Tones](http://www.dialabc.com/sound/detect/index.html).
@@ -23,8 +24,7 @@ Hasil 2:
 ```
 116 106 099 116 102 123 098 114 117 100 409 009 909 710 910 110 809 505 005 204 811 212 55
 ```
-
-Kombinasikan kedua hasil tersebut, gunakan tool penerjemahan decimal ke text. Setelah beberapa kali mencoba akhirnya mendapatkan hasil yang kombinasi yang benar yaitu
+Kombinasikan kedua hasil tersebut, gunakan tool penerjemahan decimal ke text. Setelah beberapa kali mencoba akhirnya mendapatkan hasil yang kombinasi yang benar yaitu:
 ```
 116 106 099 116 102 123 098 114 117 104 095 099 097 109 101 108 095 050 052 048 112 125
 ```
