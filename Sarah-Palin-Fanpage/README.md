@@ -17,6 +17,7 @@ Ubah menjadi
 {"1":true,"2":true,"3":true,"4":true,"5":true,"6":true,"7":true,"8":true,"9":true,"10":true}
 ```
 Kembalikan ke bentuk base64 dan ubah cookienya.
+
 ![](sarah.png)
 
 Buka VIP area dan kita temukan flag nya.
