@@ -37,5 +37,6 @@
 
 ## Score Progression
 ![Score Progression](points.png)
-## Ranking
+
+## Rank
 ![Ranking](ranking.png)
