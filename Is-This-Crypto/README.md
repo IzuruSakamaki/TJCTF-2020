@@ -10,4 +10,4 @@ tjctf{n0_th15_is_kyl3}
 
 Melalui gambar diatas kita dapat menerjemahkan kata yang ada dalam soal. Untuk mempermudahnya, dapat menggunakan decoder caesar cipher dengan mensubtitusikan kata tersebut dalam kata biasa.
 
-Namun sebenarnya saya mencoba manual melakukan subtitusi dengan patokan trend kata dalam bahasa inggris. Hahaha
+Namun sebenarnya saya mencoba manual melakukan substitusi dengan patokan trend kata dalam bahasa inggris. Hahaha
