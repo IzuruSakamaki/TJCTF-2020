@@ -10,7 +10,9 @@ tjctf{BOLm1QMWi3c}
 ## Solution
 ![](fctr.png)
 
-Dalam file di lampiran soal terdapat nilai `n` yang akan kita lakukan perhitungan dengan bantuan [factordb](http://factordb.com/) dan akan menghasilkan nilai seperti pada gambar diatas. Lakukanlah dekripsi menggunakan kode ruby yang telah disediakan. (jangan lupa untuk mengganti nilai `n`, `e`, `c`, `p`, `q` pada kode ruby nya)
+Dalam file di lampiran soal terdapat nilai `n` yang akan kita lakukan perhitungan dengan bantuan [factordb](http://factordb.com/) dan akan menghasilkan nilai seperti pada gambar diatas. Lakukanlah dekripsi menggunakan kode ruby yang telah disediakan.
+
+(jangan lupa untuk mengganti nilai `n`, `e`, `c`, `p`, `q` pada kode ruby nya)
 ```
 $ ruby solve.rb
 ```
