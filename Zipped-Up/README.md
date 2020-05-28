@@ -18,6 +18,7 @@ $ sudo apt install unar
 ```
 
 ![](unzip.png)
+
 Karena perkiraan saya 2000 zipfile, sedangkan hanya 1001 zipfile yang ter-unzip maka setelah itu akan terjadi kegagalan.
 
 ![](flagterm.png)
