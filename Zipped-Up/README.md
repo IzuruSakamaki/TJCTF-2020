@@ -6,9 +6,23 @@ My friend changed the password of his Minecraft account that I was using so that
 tjctf{ch0p1n_fl4gs}
 ```
 ## Solution
-![](img.png)
+![](tar.png)
 
-Setelah mengunduh gambar, dapat dilihat gambar tersebut adalah meme dengan not balok Chopins Third Ballade. Dari soal dapat diketahui yang dicari adalah pembuat dari meme tersebut. Untuk mendapatkan data tersebut dapat menggunakan `exiftool` dan grep pada `terminal`. 
+Ekstrak terlebih dahulu `zipfile` yang kita dapatkan dari lampiran soal. Lalu masukkan kode python yang telah saya berikan pada folder `0`.
+
+![](python.png)
+
+Yang perlu diketahui pada kode python ini adalah ekstensi dari file dan perkiraan unzipping yang dilakukan. Jangan lupa pula untuk menginstal `unar` dengan cara:
 ```
-$ exiftool [imagename].png | grep Artist
+$ sudo apt install unar
+```
+
+![](unzip.png)
+Karena perkiraan saya 2000 zipfile, sedangkan hanya 1001 zipfile yang ter-unzip maka setelah itu akan terjadi kegagalan.
+
+![](flagterm.png)
+
+Terdapat sedikit jebakan di soal ini. Setiap folder memiliki flag tipuan yang mencegah kita mengetahui dmana flag sebenarnya berada. Namun dapat kita manipulasi menggunakan `grep`
+```
+$ grep -v -r "tjctf{n0t_th3_fl4g}" | grep "tjctf{"
 ```
