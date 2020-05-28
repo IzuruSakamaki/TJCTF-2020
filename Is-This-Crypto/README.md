@@ -6,6 +6,6 @@
 tjctf{n0_th15_is_kyl3}
 ```
 ## Solution
-![](img.png)
+![](latin.png)
 
-otw lur :)
+Melalui gambar diatas kita dapat menerjemahkan kata yang ada dalam soal. Untuk mempermudahnya, dapat menggunakan decoder caesar cipher dengan mensubtitusikan kata tersebut dalam kata biasa.
