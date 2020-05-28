@@ -12,4 +12,4 @@ Saya penasaran apa situs ini mampu membaca pastebin yang berisi file manager. Da
 
 ![](filemanager.png)
 
-Walaupun sedikit kacau, namun ini merupakan file manager terbaik yang saya temukan. Selanjutnya tinggal membuka folder `i_wonder_whats_in_here` dan akan menemukan file `flag.txt` yang berisi flagnya.
+Walaupun sedikit kacau, namun ini merupakan file manager terbaik yang saya temukan. Selanjutnya tinggal membuka folder `i_wonder_whats_in_here` dan akan menemukan file `flag.php` yang berisi flagnya.
