@@ -15,3 +15,5 @@ Ketika kita buka `inspect element` pada halaman utama situs ini, kita akan menda
 Setelah mendapatkan hasil dekripsi, selanjutnya tinggal melakukan login dengan `admin` sebagai username dan `inevitable` sebagai password.
 
 ![](furagu.png)
+ 
+ Akhirnya kita temukan flag nya.
